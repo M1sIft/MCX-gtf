@@ -1,4 +1,4 @@
-<img src="https://github.com/MCX-gtf/pirture/blob/main/picture/3.jpg" width="100%">
+<img src="https://github.com/MCX-gtf/pirture/blob/main/picture/3.png" width="100%">
 
 ### 👋 I'M MCX-gtf 
 
