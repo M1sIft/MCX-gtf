@@ -1,5 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/MCX-gtf/pirture/blob/main/picture/1.jpg" width="100%">
 
+### 👋 I'M MCX-gtf 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MCX-gtf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **MCX-gtf/MCX-gtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
